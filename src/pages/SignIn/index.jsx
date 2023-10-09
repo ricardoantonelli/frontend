@@ -19,7 +19,7 @@ export function SignIn() {
   return (
     <Container>
       <Form>
-        <h1>My Movies</h1>
+        <h1>Rocket Movies</h1>
         <p>Aplicação para salvar seus filmes favoritos 🎬👌🏼</p>
         <h2>Faça seu login 👇</h2>
         <Input

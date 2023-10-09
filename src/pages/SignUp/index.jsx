@@ -66,7 +66,7 @@ export function SignUp() {
   return (
     <Container>
       <Form>
-        <h1>My Movies</h1>
+        <h1>Rocket Movies</h1>
         <p>Aplicação para salvar seus filmes favoritos 🎬👌🏼</p>
         <h2>Crie sua conta 😉</h2>
 
